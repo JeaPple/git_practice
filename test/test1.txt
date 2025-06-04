@@ -1,7 +1,7 @@
 hello java
-hello world1
-hello world2
-hello world3
+hello worldc++
+hello worldpython
+hello worldjava
 hello world4
 hello world6
 hello world6
