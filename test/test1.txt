@@ -2,6 +2,3 @@ hello java
 hello worldc++
 hello worldpython
 hello worldjava
-hello world4
-hello world6
-hello world6
